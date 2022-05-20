@@ -1,0 +1,59 @@
+.go{
+    width: 20%;
+    text-align: left;
+    display: inline-block;
+
+
+}
+body{
+    width: 50%;
+    font-family: arial;
+    margin: 5px auto;
+    color: #1abc9c;
+    padding: auto;
+    font-size: 1.5em;
+    
+
+}
+fieldset{
+    padding: auto;
+    border-radius: 15px;
+    margin-top: 15px;
+    font-style: bold;
+}
+legend{
+    font-size: 1.4em;
+    margin-bottom: 20px;
+}
+input[type="text"],input[type="number"],input[type="email"]
+{
+    border-radius: 10px;
+    padding: 15px;
+    width: 50%;
+    background: white;
+    margin: 15px;
+}
+input[type="submit"]{
+    position: relative;
+    padding: 20px;
+    font-size: 1.7em;
+    width: 100%;
+    background-color: #1abc9c;
+    /*font-style: bold;*/
+}
+ul li{
+    list-style: none;
+    display: inline;
+    padding: auto;
+    margin: 30px;
+    font-size: 2em;
+}
+header a{
+    color: white;
+}
+header{
+    text-align: center;
+    background-color: black;
+    
+    
+}
